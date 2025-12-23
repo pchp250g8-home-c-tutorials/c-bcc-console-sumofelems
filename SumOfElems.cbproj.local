@@ -2,11 +2,11 @@
 <BorlandProject>
 	<Transactions>
     <Transaction>1899.12.30 00:00:00.000.102,=C:\Users\PC\Documents\Embarcadero\Studio\Projects\File1.c</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.140,C:\Users\PC\Documents\Embarcadero\Studio\Projects\File1.c=D:\Projects\Programming\C\BDS\Console\Algorithms\SumOfElems\SumOfElems.c</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.933,C:\Users\PC\Documents\Embarcadero\Studio\Projects\SumOfElemsPCH1.h=D:\Projects\Programming\C\BDS\Console\Algorithms\SumOfElems\SumOfElemsPCH2.h</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.937,C:\Users\PC\Documents\Embarcadero\Studio\Projects\SumOfElems.cbproj=D:\Projects\Programming\C\BDS\Console\Algorithms\SumOfElems\SumOfElems.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.933,D:\Projects\Programming\C\BDS\Console\Algorithms\SumOfElems\SumOfElemsPCH2.h=C:\Users\PC\Documents\Embarcadero\Studio\Projects\SumOfElemsPCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.738,C:\Users\PC\Documents\Embarcadero\Studio\Projects\SumOfElemsPCH1.h=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.937,D:\Projects\Programming\C\BDS\Console\Algorithms\SumOfElems\SumOfElems.cbproj=C:\Users\PC\Documents\Embarcadero\Studio\Projects\SumOfElems.cbproj</Transaction>
     <Transaction>1899.12.30 00:00:00.000.921,=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.738,C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\PC\Documents\Embarcadero\Studio\Projects\SumOfElemsPCH1.h</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.740,C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\PC\Documents\Embarcadero\Studio\Projects\SumOfElems.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.740,C:\Users\PC\Documents\Embarcadero\Studio\Projects\SumOfElems.cbproj=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.140,D:\Projects\Programming\C\BDS\Console\Algorithms\SumOfElems\SumOfElems.c=C:\Users\PC\Documents\Embarcadero\Studio\Projects\File1.c</Transaction>
   </Transactions>
 </BorlandProject>
